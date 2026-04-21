@@ -1,4 +1,4 @@
-package com.xaw.sentinel_quickstart;
+package com.xaw;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
